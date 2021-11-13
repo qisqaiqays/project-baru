@@ -1,0 +1,5 @@
+create file dalam folder learn-git
+-README.md
+-credential.md
+-.gitignore
+-.gitignore ni digunakan utk exclude file yang akan push ke github. senaraikan nama file dalam file.gitignore
