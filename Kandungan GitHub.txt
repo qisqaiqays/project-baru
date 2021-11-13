@@ -3,3 +3,9 @@ create file dalam folder learn-git
 -credential.md
 -.gitignore
 -.gitignore ni digunakan utk exclude file yang akan push ke github. senaraikan nama file dalam file.gitignore
+On branch master
+
+No commits yet
+
+Untracked files:
+(use “git add <file>…” to include in what will be committed)
