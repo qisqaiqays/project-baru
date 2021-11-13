@@ -1,0 +1,2 @@
+install git kat komputer
+-#npm install git
