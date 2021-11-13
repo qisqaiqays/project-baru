@@ -6,3 +6,10 @@ create file dalam folder learn-git
 contoh:
 
 credential.md
+jadi..
+
+ 
+
+UMPs-MacBook-Pro-2:learn-git ump$ git statusjadi..
+
+ 
