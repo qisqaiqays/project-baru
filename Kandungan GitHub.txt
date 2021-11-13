@@ -3,3 +3,13 @@ create file dalam folder learn-git
 -credential.md
 -.gitignore
 -.gitignore ni digunakan utk exclude file yang akan push ke github. senaraikan nama file dalam file.gitignore
+contoh:
+
+credential.md
+jadi..
+
+ 
+
+UMPs-MacBook-Pro-2:learn-git ump$ git statusjadi..
+
+ 
