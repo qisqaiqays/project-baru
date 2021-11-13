@@ -2,3 +2,5 @@ install git kat komputer
 -#npm install git
 daftar akaun kt github.com
 create repository
+buat folder learn-git
+init git
